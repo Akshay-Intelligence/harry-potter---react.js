@@ -1,0 +1,34 @@
+[
+{ "id":1,
+"pimage":"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/09/harry-potter-and-the-chamber-of-secrets-movie-poster.jpg ",
+"title": " Harry Potter and the Chamber of Secrets",
+"price": 50 },
+
+{ "id":2,
+"pimage":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-tz0Oo4Dtim1wh1Oboc9g4C67PNGi40-KXuI6pqebcKPiRDcfXjAs3yN2KHehgRqYjaBgQ",
+"title": " Harry Potter and the Prisoner of Azkaban",
+"price": 50 },
+
+{ "id":3,
+"pimage":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgioxAc6jyh6ziiNuUAW6sm76dOUAwzow8eOmblVdwSwsN-z6VtKqgSOWiYhkk_MDsmz3ugA ",
+"title": "Harry Potter and the Goblet of Fire",
+"price": 60 },
+
+{ "id":4,
+"pimage":" https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkf5Pxd0FAs2bZZMPXHxDBig7VZ2z2UNszA9UO7AV7n6KDu935h_j_gUarzASmAE6aJF2_Kg",
+"title": "Harry Potter and the Order of the Phoenix",
+"price": 70 },
+
+{ "id":5,
+"pimage":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9ZGdOvhxNw2vSss7GMwR-SmrHCM-it1Iid-oGMuVeTRrru11jQ8Po-hH_ZfbaoODgalJH0Q",
+"title": "Harry Potter and the Half-Blood Prince",
+"price": 80 },
+
+{ "id":6,
+"pimage":"https://miro.medium.com/v2/resize:fit:1200/1*d-Z-MMx5VSZIYsOm36vU-Q.jpeg ",
+"title": "Harry Potter and the Deathly Hallows – Part 2",
+"price": 90 }
+
+
+
+]
